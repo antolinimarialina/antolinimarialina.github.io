@@ -120,7 +120,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "antolini@msu.edu"
+      url: "antolini@msu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
     - label: "Google Scholar"
