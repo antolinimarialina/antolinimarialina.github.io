@@ -1,16 +1,15 @@
 Below, I provide a brief overview of my academic and professional experience.
-For more details, you can access my CV (here.)[https://docs.google.com/document/d/1_aeZ6ceZsSD2EZkU5XAiy3KMACMBwctL/edit?usp=sharing&ouid=112194496832054659509&rtpof=true&sd=true]
-
+For more details, you can access my CV [here.](https://docs.google.com/document/d/1_aeZ6ceZsSD2EZkU5XAiy3KMACMBwctL/edit?usp=sharing&ouid=112194496832054659509&rtpof=true&sd=true)
 
 ## Academic Publications
 
 *Peer-Reviewed*
-Antolini, M. C., Rebouças, E. (2016). Globalização e tirania da informação: a formação de cidadãos na democracia neoliberal. Passagens Journal. 6 (2), p. 6-19. ISSN: 2179-9938 (Link to publication)[http://www.periodicos.ufc.br/passagens/article/view/2469]
+Antolini, M. C., Rebouças, E. (2016). Globalização e tirania da informação: a formação de cidadãos na democracia neoliberal. Passagens Journal. 6 (2), p. 6-19. ISSN: 2179-9938 [Link](/guides/content/editing-an-existing-page)(Link to publication)[http://www.periodicos.ufc.br/passagens/article/view/2469]
 
 Books
-Zanetti, D; Reis, R.; Antolini, M. C. (2021). Minorias midiatizadas: gêneros, etnias e territórios (mediatized minorities: gender, ethnicities and territories). Book. UFPel. ISBN: 978-65-86440-65-2. (In Portuguese). (Link to publication)[https://guaiaca.ufpel.edu.br/handle/prefix/7891]
+Zanetti, D; Reis, R.; Antolini, M. C. (2021). Minorias midiatizadas: gêneros, etnias e territórios (mediatized minorities: gender, ethnicities and territories). Book. UFPel. ISBN: 978-65-86440-65-2. (In Portuguese). [An Internal Link](/guides/content/editing-an-existing-page)(Link to publication)[https://guaiaca.ufpel.edu.br/handle/prefix/7891]
 
-Book Chapter: Antolini, M. C., Rebouças, E. (2017). Comunicação, Direitos Humanos e Cidadania: territorialidades que se entrelaçam (Communication, Human Rights and Citizenship: territorialities that intertwine). In: Cultura e Poder, Redes e Mídias. Ruth Reis e Daniela Zanetti (org). Vitória: Edufes, 2017. ISBN: 978-85-7772-363-8. (In Portuguese) (Link to publication)[https://edufes.ufes.br/items/show/470]
+Book Chapter: Antolini, M. C., Rebouças, E. (2017). Comunicação, Direitos Humanos e Cidadania: territorialidades que se entrelaçam (Communication, Human Rights and Citizenship: territorialities that intertwine). In: Cultura e Poder, Redes e Mídias. Ruth Reis e Daniela Zanetti (org). Vitória: Edufes, 2017. ISBN: 978-85-7772-363-8. (In Portuguese) [An Internal Link](/guides/content/editing-an-existing-page)(Link to publication)[https://edufes.ufes.br/items/show/470]
 
 ---
 
