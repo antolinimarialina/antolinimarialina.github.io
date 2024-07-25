@@ -1,3 +1,22 @@
+---
+permalink: /CV/
+title: "CV"
+excerpt: "overview of Marialina's expertise."
+#layouts_gallery:
+#  - url: /assets/images/mm-layout-splash.png
+#    image_path: /assets/images/mm-layout-splash.png
+#    alt: "splash layout example"
+#  - url: /assets/images/mm-layout-single-meta.png
+#    image_path: /assets/images/mm-layout-single-meta.png
+#    alt: "single layout with comments and related posts"
+#  - url: /assets/images/mm-layout-archive.png
+#    image_path: /assets/images/mm-layout-archive.png
+#    alt: "archive layout example"
+last_modified_at: 2022-05-27T11:59:26-04:00
+toc: true
+---
+
+
 Below, I provide a brief overview of my academic and professional experience.
 For more details, you can access my CV [here.](https://docs.google.com/document/d/1_aeZ6ceZsSD2EZkU5XAiy3KMACMBwctL/edit?usp=sharing&ouid=112194496832054659509&rtpof=true&sd=true)
 
