@@ -4,8 +4,8 @@ main:
      url: _pages/about.md
    - title: "CV"
      url: _pages/cv.md
-   - title: "Professional Experience"
-     url: _pages/ngo.md
+  # - title: "Professional Experience"
+  #   url: _pages/ngo.md
   # - title: "Sitemap"
   #   url: /sitemap/
 
