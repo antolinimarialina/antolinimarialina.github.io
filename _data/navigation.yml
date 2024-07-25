@@ -1,11 +1,11 @@
 # main links links
 main:
    - title: "About"
-     url: docs/_pages/about.md
+     url: _pages/about.md
    - title: "CV"
-     url: docs/_pages/cv.md
+     url: _pages/cv.md
    - title: "Professional Experience"
-     url: docs/_pages/ngo.md
+     url: _pages/ngo.md
   # - title: "Sitemap"
   #   url: /sitemap/
 
