@@ -31,8 +31,3 @@ In my research, I’m investigating how youth in the Global South, especially yo
 This five-minute video shows a bit of my research: [Social Medial Activism in Brazil](https://www.youtube.com/watch?v=bBCNkbOSHho)
 
 ---
-
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
