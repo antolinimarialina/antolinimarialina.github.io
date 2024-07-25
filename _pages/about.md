@@ -1,7 +1,7 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
-layout: home
+layout: splash
 ---
 
 Olá! I’m Marialina Côgo Antolini, a PhD Candidate in the School of Journalism, Information and Media Program at Michigan State University. 
