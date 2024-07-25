@@ -1,10 +1,10 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
-excerpt: "overview of Marialina."
-layout: home
-last_modified_at: 2022-05-27T11:59:26-04:00
-toc: true
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 ## About
