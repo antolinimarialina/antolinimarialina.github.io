@@ -114,9 +114,9 @@ analytics:
 author:
   name             : *name
   avatar           : "/assets/images/Marialina.jpg"
-  bio              : "UPDATE"
+  bio              : "PhD Candidate - Information and Media"
   location         : "Michigan State University"
-  email            :
+  email            : mailto:antolini@msu.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
