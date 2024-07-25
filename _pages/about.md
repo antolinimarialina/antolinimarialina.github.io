@@ -1,9 +1,8 @@
 ---
 permalink: /about/
 title: "About"
+layout: home
 ---
-
-## About
 
 Olá! I’m Marialina Côgo Antolini, a PhD Candidate in the School of Journalism, Information and Media Program at Michigan State University. 
 My research focuses on the new ways we consume and share information, focusing on how youth use social media platforms to engage in activism in the Global South and information-sharing processes in politically polarized scenarios.     
