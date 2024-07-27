@@ -50,7 +50,9 @@ Communication Theories – Contemporary Perspectives for Journalism (COS04828)
 Ethics and Law in Communication (COS 04835)
 Special Topics in Journalism - Media and Human Rights (COS 04917)
 
+
 *General Public*
+
 Experience developing, organizing, and facilitating courses in media literacy, security, and human rights, as well as popular and community communication for various audiences, including underprivileged communities, the police force, policy-making actors, and youth groups, among others.
 
 ---
@@ -70,7 +72,7 @@ Federal University of Espirito Santo (UFES)
 Year of conclusion: 2005
 
 *Certificate in Environmental Science Management*
-Technical and Further Education - Perth, Australia
+Technical and Further Education (TAFE) - Perth, Australia
 Year of conclusion: 2008
 
 ---
