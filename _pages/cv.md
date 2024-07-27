@@ -59,20 +59,20 @@ Experience developing, organizing, and facilitating courses in media literacy, s
 
 ## Education
 
-*PhD Candidate - Information and Media Program, Michigan State University*
-Advisor: Dr. Kjerstin Thorson
+*PhD Candidate - Information and Media Program, Michigan State University* -
+Advisor: Dr. Kjerstin Thorson - 
 Completion: Spring 2025
 
-*Master in Communication and Territorialities*
-Federal University of Espirito Santo (UFES)
+*Master in Communication and Territorialities* - 
+Federal University of Espirito Santo (UFES) - 
 Year of conclusion: 2016
 
-*Bachelor in Social Communication – Journalism*
-Federal University of Espirito Santo (UFES)
+*Bachelor in Social Communication – Journalism* - 
+Federal University of Espirito Santo (UFES) - 
 Year of conclusion: 2005
 
-*Certificate in Environmental Science Management*
-Technical and Further Education (TAFE) - Perth, Australia
+*Certificate in Environmental Science Management* - 
+Technical and Further Education (TAFE) - Perth, Australia - 
 Year of conclusion: 2008
 
 ---
