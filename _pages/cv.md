@@ -36,12 +36,36 @@ Book Chapter: Antolini, M. C., Rebouças, E. (2017). Comunicação, Direitos Hum
 
 *Higher Education*
 
-Michigan State University, School of Journalism - Instructor of Record: Story, Sound and Motion I and II (DS112 and DS113 – Asynchronous and In-Person); Writing and Reporting News (JRN 200 - In-Person)
+Michigan State University, School of Journalism
 
-Teaching Assistant: Story, Sound and Motion II (DS113); Social Media Storytelling (CAS 841); Writing and Reporting News (JRN 200)
+*Instructor of Record*
+
+Story, Sound and Motion I and II (DS112 and DS113 – Asynchronous and In-Person)
+
+Writing and Reporting News (JRN 200 - In-Person)
 
 
-Professor at Federal University of Espirito Santo, Brazil (In Person): Public Relations (COS04830); History of Communication Systems (COS 04945); Communication Theories – Contemporary Perspectives for Cinema and Audiovisual (COS04828); Communication Theories – Contemporary Perspectives for Journalism (COS04828); Ethics and Law in Communication (COS 04835); Special Topics in Journalism - Media and Human Rights (COS 04917)
+*Teaching Assistant*
+
+Story, Sound and Motion II (DS113) 
+
+Social Media Storytelling (CAS 841) 
+
+Writing and Reporting News (JRN 200)
+
+
+*Professor at Federal University of Espirito Santo, Brazil (In Person)* 
+
+Public Relations (COS04830) 
+
+History of Communication Systems (COS 04945)
+
+Communication Theories – Contemporary Perspectives for Journalism, and for Cinema and Audiovisual (COS04828)
+
+Ethics and Law in Communication (COS 04835)
+
+Special Topics in Journalism - Media and Human Rights (COS 04917)
+
 
 
 *General Public*
