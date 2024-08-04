@@ -18,7 +18,7 @@ toc: true
 
 
 Below, I provide a brief overview of my academic and professional experience.
-For more details, you can access my CV [here.](https://docs.google.com/document/d/1_aeZ6ceZsSD2EZkU5XAiy3KMACMBwctL/edit?usp=sharing&ouid=112194496832054659509&rtpof=true&sd=true)
+For more details, you can access my CV [here.](https://docs.google.com/document/d/1pU043PuQqkAIL8r4N0jD9ALeW2hFCc4X/edit)
 
 ## Academic Publications
 
